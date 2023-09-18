@@ -18,3 +18,5 @@ Interfaces ermöglichen eine flexiblere Implementierung von mehreren Schnittstel
 Der richtige Weg hängt von Ihrer speziellen Anwendung ab. In vielen Fällen können sowohl Vererbung als auch Interfaces zusammen verwendet werden, um eine saubere und modulare Struktur zu erreichen. Es ist wichtig, die Beziehungen zwischen den Klassen und die Anforderungen Ihrer Anwendung zu analysieren, um die sinnvollste Wahl zu treffen.
 
 Die Wahl zwischen Vererbung und Interfaces sollte jedoch nicht nur auf Effizienz abzielen, sondern auch auf eine klare und verständliche Struktur. Eine gut durchdachte Architektur ist oft wichtiger als die Effizienz in Bezug auf Code-Wiederholung.
+
+https://www.youtube.com/watch?v=dIKemdYiIr8
