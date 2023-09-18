@@ -1,0 +1,20 @@
+Was hab ich gelernt?
+
+Die Klassen-Vererbung: im index.php findet man als 1. die Grundstruktur (Klasse) und danach die Klassen die angepasst sind, da wird immer die überschrieben darum gibt es auch 2 verschiedene
+PrintInfo.
+
+Warum keine Interfaces? 
+
+Vererbung (Klassen):
+
+Vererbung eignet sich gut, wenn Sie eine gemeinsame Struktur und gemeinsamen Code für mehrere Klassen haben, die in einer hierarchischen Beziehung stehen.
+Wenn es eine klare "ist-ein" Beziehung zwischen den Klassen gibt, kann die Vererbung angemessen sein. Zum Beispiel, wenn Auto und Motorrad beide als Arten von Fahrzeugen betrachtet werden können und einige gemeinsame Eigenschaften und Verhaltensweisen teilen.
+Vererbung kann dazu beitragen, Code-Wiederholung zu vermeiden, da gemeinsamer Code in der übergeordneten Klasse platziert werden kann.
+Interfaces:
+
+Interfaces eignen sich gut, wenn Sie sicherstellen müssen, dass bestimmte Methoden in mehreren Klassen vorhanden sind, unabhängig von der Vererbungshierarchie.
+Wenn Klassen in verschiedenen hierarchischen Strukturen ähnliches Verhalten bereitstellen müssen, können Sie Interfaces verwenden, um sicherzustellen, dass sie die erforderlichen Methoden implementieren.
+Interfaces ermöglichen eine flexiblere Implementierung von mehreren Schnittstellen, da eine Klasse mehrere Interfaces implementieren kann.
+Der richtige Weg hängt von Ihrer speziellen Anwendung ab. In vielen Fällen können sowohl Vererbung als auch Interfaces zusammen verwendet werden, um eine saubere und modulare Struktur zu erreichen. Es ist wichtig, die Beziehungen zwischen den Klassen und die Anforderungen Ihrer Anwendung zu analysieren, um die sinnvollste Wahl zu treffen.
+
+Die Wahl zwischen Vererbung und Interfaces sollte jedoch nicht nur auf Effizienz abzielen, sondern auch auf eine klare und verständliche Struktur. Eine gut durchdachte Architektur ist oft wichtiger als die Effizienz in Bezug auf Code-Wiederholung.
