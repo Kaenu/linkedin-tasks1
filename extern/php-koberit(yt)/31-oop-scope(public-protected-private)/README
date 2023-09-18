@@ -1,0 +1,13 @@
+Es gibt verschiedene Methoden:
+- Public
+- Protected
+- Private
+
+Private:
+Nur in derselben Klasse erreichbar, nicht in abgeleiteten Klassen oder anderen Teilen des Codes.
+
+Public:
+Überall erreichbar, von überall im Code zugänglich.
+
+Protected:
+Im gleichen Ordner und in abgeleiteten Klassen (Subklassen) erreichbar.
