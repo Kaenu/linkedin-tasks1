@@ -21,3 +21,4 @@ class Table implements TableInterface, LogInterface, Countable {
 }
 echo (new Table())->save([]);
 echo (new Table())->count();
+

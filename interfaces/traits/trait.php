@@ -18,3 +18,4 @@ class Table {
 }
 
 (new Table())->save();
+
